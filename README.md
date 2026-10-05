@@ -3,7 +3,7 @@
 Chat with your PDFs. Upload one or more documents, ask a question, and get an answer with the
 **file name and page number** it came from.
 
-**Live demo:** _add your Streamlit link here_
+Live demo: https://shivanksingh2904-ctrl-documind-6yl7xfnqwas8appvbwgaqk5.streamlit.app/
 
 ## Features
 - **Multi-PDF chat:** upload several PDFs and ask across all of them.
