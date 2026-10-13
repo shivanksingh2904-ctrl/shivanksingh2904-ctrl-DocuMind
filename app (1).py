@@ -90,3 +90,4 @@ if question:
                     st.markdown(f"**{s['source']} - page {s['page']}**")
                     st.write(s["text"])
     history.append({"role": "assistant", "content": text, "sources": sources})
+
