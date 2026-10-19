@@ -10,7 +10,6 @@ import streamlit as st
 import pdf_processor
 import rag
 
-
 st.set_page_config(page_title="PDF Q&A", page_icon="📄", layout="wide")
 
 
