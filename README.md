@@ -1,4 +1,4 @@
-# 📄 PDF Q&A
+# 📄 RAG-PDF Q&A
 
 Chat with your PDFs. Upload one or more documents, ask a question, and get an answer with the
 **file name and page number** it came from.
